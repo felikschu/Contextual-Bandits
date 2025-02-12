@@ -45,6 +45,8 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 ## Related Resources
 
 *   [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) - Sutton & Barto, 2018
+*   [手动学强化学习 by 上海交通大学](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
+*   [ Bandit Online Learning by Nanjing University Lijun Zhang](  https://ai.nju.edu.cn/zlj/Course/Theory_17_Lecture/BOL.pdf)
 
 ## Contributing
 
