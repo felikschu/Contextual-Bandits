@@ -18,7 +18,7 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 *   [Evaluating Online Bandit Exploration In Large-Scale Recommender System](https://arxiv.org/abs/2304.02572) - Hongbo Guo, Ruben Naeff, Alex Nikulkov, Zheqing Zhu ,2023
 *   [Thompson Sampling for Contextual Bandits with Linear Payoffs](https://arxiv.org/abs/1209.3352) - Agrawal & Goyal, 2013
-*   [WilliamLwj/PyXAB](https://github.com/WilliamLwj/PyXAB)- A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms
+
 
 ### Recent Research
 
@@ -28,8 +28,9 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 ### Python
 
-*   [auction-gym]([https://github.com/flaviotruzzi/BanditPy](https://github.com/amzn/auction-gym) - AuctionGym is a simulation environment that enables reproducible evaluation of bandit and reinforcement learning methods for online advertising auctions.
+*   [auction-gym](https://github.com/amzn/auction-gym) - AuctionGym is a simulation environment that enables reproducible evaluation of bandit and reinforcement learning methods for online advertising auctions.
 *   [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - A fast machine learning library with support for contextual bandits.
+*    [WilliamLwj/PyXAB](https://github.com/WilliamLwj/PyXAB)- A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms
 
 ### Other Languages
 
