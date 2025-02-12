@@ -8,7 +8,7 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 ### Survey Papers
 
-*   [A Survey of Contextual Multi-armed Bandits](http://proceedings.mlr.press/v9/li10a/li10a.pdf) - Li et al., 2010
+*   [A Survey of Contextual Multi-armed Bandits](https://arxiv.org/pdf/1508.03326) - Li et al., 2010
 *   [Contextual Bandits](https://arxiv.org/abs/1904.03208) - Slivkins, 2019
 
 ### Classic Algorithms
@@ -20,27 +20,18 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 (待补充)
 
-## Libraries
+## Libraries and datasets
 
 ### Python
 
-*   [BanditPy](https://github.com/flaviotruzzi/BanditPy) - A simple and easy-to-use library for bandit algorithms.
+*   [auction-gym]([https://github.com/flaviotruzzi/BanditPy](https://github.com/amzn/auction-gym)) - AuctionGym is a simulation environment that enables reproducible evaluation of bandit and reinforcement learning methods for online advertising auctions.
 *   [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - A fast machine learning library with support for contextual bandits.
 
 ### Other Languages
 
 (待补充)
 
-## Datasets
 
-### Synthetic Datasets
-
-You can use libraries like scikit-learn to generate synthetic datasets for testing algorithms.
-
-### Real-world Datasets
-
-*   Yahoo! Webscope Datasets
-*   MovieLens Datasets
 
 ## Tutorials and Blogs
 
