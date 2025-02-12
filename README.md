@@ -10,11 +10,15 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 *   [A Survey of Contextual Multi-armed Bandits](https://arxiv.org/pdf/1508.03326) - Li et al., 2010
 *   [A Survey on Practical Applications of Multi-Armed and Contextual Bandits](https://arxiv.org/abs/1904.10040)-Djallel Bouneffouf, Irina Rish ,2019
+   This article provides a comprehensive review of recent advancements in the application of the Multi-Armed Bandit (MAB) framework to various real-world problems. It identifies common application areas of MABs, summarizes state-of-the-art techniques within each, highlights current trends in the field, and offers perspectives on the future direction of MAB research and applications. Essentially, it's a "state-of-the-union" address for MAB applications.
+
+  
 
 ### Classic Algorithms
 
-*   [Evaluating Online Bandit Exploration In Large-Scale Recommender System]([http://proceedings.mlr.press/v9/li10a/li10a.pdf](https://arxiv.org/abs/2304.02572)) - Hongbo Guo, Ruben Naeff, Alex Nikulkov, Zheqing Zhu ,2023
+*   [Evaluating Online Bandit Exploration In Large-Scale Recommender System]([http://proceedings.mlr.press/v9/li10a/li10a.pdf](https://arxiv.org/abs/2304.02572) - Hongbo Guo, Ruben Naeff, Alex Nikulkov, Zheqing Zhu ,2023
 *   [Thompson Sampling for Contextual Bandits with Linear Payoffs](https://arxiv.org/abs/1209.3352) - Agrawal & Goyal, 2013
+*   [WilliamLwj/PyXAB](https://github.com/WilliamLwj/PyXAB)- A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms
 
 ### Recent Research
 
