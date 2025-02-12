@@ -16,7 +16,7 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 ### Classic Algorithms
 
-*   [Evaluating Online Bandit Exploration In Large-Scale Recommender System]([http://proceedings.mlr.press/v9/li10a/li10a.pdf](https://arxiv.org/abs/2304.02572) - Hongbo Guo, Ruben Naeff, Alex Nikulkov, Zheqing Zhu ,2023
+*   [Evaluating Online Bandit Exploration In Large-Scale Recommender System](https://arxiv.org/abs/2304.02572) - Hongbo Guo, Ruben Naeff, Alex Nikulkov, Zheqing Zhu ,2023
 *   [Thompson Sampling for Contextual Bandits with Linear Payoffs](https://arxiv.org/abs/1209.3352) - Agrawal & Goyal, 2013
 *   [WilliamLwj/PyXAB](https://github.com/WilliamLwj/PyXAB)- A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms
 
