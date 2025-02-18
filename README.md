@@ -18,6 +18,7 @@ A curated list of resources on Contextual Bandit algorithms: papers, libraries, 
 
 *   [Evaluating Online Bandit Exploration In Large-Scale Recommender System](https://arxiv.org/abs/2304.02572) - Hongbo Guo, Ruben Naeff, Alex Nikulkov, Zheqing Zhu ,2023
 *   [Thompson Sampling for Contextual Bandits with Linear Payoffs](https://arxiv.org/abs/1209.3352) - Agrawal & Goyal, 2013
+*   [Inference on the generalization error of machine learning algorithms and the design of hierarchical medical term embeddings](https://stacks.stanford.edu/file/druid:gk314dn7637/Inference_on_the_Generalization_Error_of_ML_Algorithms_and_the_Design_of_Hierarchical_Term_Embeddings_BryanCai_08_23-augmented.pdf)-Cai, Bryan
 
 
 ### Recent Research
